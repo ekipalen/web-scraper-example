@@ -1,4 +1,4 @@
-# Robot Framework - Web scraping example with Playwright
+# Robot Framework - Web scraping example using Playwright
 
 Example on web scaping using Robot Framework and RPA.Browser.Playwright. 
 ## Learning materials
